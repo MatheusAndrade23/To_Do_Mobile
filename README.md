@@ -1,9 +1,9 @@
-# Im Here
+# To Do App Mobile
 
-O projeto consiste em um APP de uma lista de convidados de um evento, onde é possível adiocionar e remover convidados. O APP foi desenvolvido durante o primeiro módulo do curso de React Native do Ignite da Rocketseat.
+### Dessa vez a versão Mobile! o APP consiste em uma lista de tarefas com funcionalidades básicas: Adicionar, Remover e Completar. O projeto foi desenvolvido para o desafio do 1° módulo do curso de React Native do Ignite da Rocketseat.
  
-Apesar de eu já ter uma grande experiência com React, o estudo foi muito bom para rever conceitos importantes além de conhecer as tags que são utilizadas no React Native.
-
 ##
 
-![im_here](https://user-images.githubusercontent.com/84635540/208510357-73801fff-b40e-464f-88c5-bcd2b829ca32.gif)
+<br/>
+
+![to_do_mobile](https://user-images.githubusercontent.com/84635540/208559304-6744e2b2-87cc-40ba-8aad-5fd9ea03de07.gif)
