@@ -1,12 +1,5 @@
 import { useState } from "react";
-import {
-  Text,
-  View,
-  TextInput,
-  TouchableOpacity,
-  FlatList,
-  Alert,
-} from "react-native";
+import { Text, View, FlatList, Alert } from "react-native";
 
 import Icon from "react-native-vector-icons/FontAwesome5";
 
